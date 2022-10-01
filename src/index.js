@@ -9,7 +9,7 @@ const Root = () => {
   return (
     <Router>
         <Switch>
-          <Route exact path="/" component={App} />
+          <Route exact path="/WebSite/" component={App} />
           <Route exact path="/mentions" component={Mentions} />
         </Switch>
     </Router>

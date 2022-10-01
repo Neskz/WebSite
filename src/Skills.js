@@ -20,19 +20,19 @@ class Skills extends React.Component {
                             <li title="Node" class="list-inline-item"><i class="fab fa-node-js"></i></li>
                             <li title="Java" class="list-inline-item"><i class="fab fa-java"></i></li>
                             <li title="Python" class="list-inline-item"><i class="fab fa-python"></i></li>
-                            <img title="C" class="icon-image-prog" src="../c.jpg" alt="C"/>
-                            <img title="C++" class="icon-image-prog" src="../c++.jpg" alt="C++"/>
-                            <img title="Powershell" class="icon-image" src="../powershell.jpg" alt="Powershell"/>
+                            <img title="C" class="icon-image-prog" src="c.jpg" alt="C"/>
+                            <img title="C++" class="icon-image-prog" src="c++.jpg" alt="C++"/>
+                            <img title="Powershell" class="icon-image" src="powershell.jpg" alt="Powershell"/>
                         </li>
                         <li>
                             <>Bases de données : </>
-                            <img title="SQL" class="icon-image" src="../sql.jpg" alt=""/>
-                            <img title="MongoDB" class="icon-image" src="../mongoDB.jpg" alt=""/>
+                            <img title="SQL" class="icon-image" src="sql.jpg" alt=""/>
+                            <img title="MongoDB" class="icon-image" src="mongoDB.jpg" alt=""/>
                         </li>
                         <li>
                             <>Plateformes de Cloud Computing : </>
                             <li title="AWS" class="list-inline-item"><i class="fab fa-aws"></i></li>
-                            <img title="Azure" class="icon-image" src="../azure.jpg" alt=""/> 
+                            <img title="Azure" class="icon-image" src="azure.jpg" alt=""/> 
                         </li>
                         <li>
                             <>Environnement : </> 
@@ -44,8 +44,8 @@ class Skills extends React.Component {
                             <li title="GitHub" class="list-inline-item"><i class="fab fa-github"></i></li>
                             <li title="Docker" class="list-inline-item"><i class="fab fa-docker"></i></li>
                             <li title="Jira" class="list-inline-item"><i class="fab fa-jira"></i></li>
-                            <img title="CCNA" class="icon-image-prog" src="../ccna.jpg" alt="CCNA"/> 
-                            <img title="ITIL v4" class="icon-image" src="../itil.jpg" alt="ITIL"/> 
+                            <img title="CCNA" class="icon-image-prog" src="ccna.jpg" alt="CCNA"/> 
+                            <img title="ITIL v4" class="icon-image" src="itil.jpg" alt="ITIL"/> 
                         </li>
                     </ul>
                     <div class="subheading mb-3 colortitle">Compétences supplémentaires</div>
