@@ -1,0 +1,28 @@
+.container-fluid {
+    padding-left: 3%;
+    padding-right: 10%;
+    text-align: justify;
+}
+
+.legal-h2 {
+    padding-top : 3%;
+}
+
+.container-fluid .firsttitle {
+    padding-top: 2%;
+}
+
+.container-fluid h4 {
+    padding-top: 1%;
+}
+
+.alinea{
+    padding-left: 2%;;
+}
+
+.container-aide {
+    padding-left: 3%;
+    padding-right: 10%;
+    text-align: justify;
+    font-style: italic;
+}

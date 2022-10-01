@@ -1,0 +1,132 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.text-second {
+  color: rgb(191,191,191);
+}
+
+.justify-text{
+  text-align: justify;
+}
+
+.dev-icons{
+  font-size: 1.5rem !important;
+}
+
+.line-space{
+  line-height: 250%;
+}
+
+.interest-icon{
+  margin-right: 2rem;
+}
+
+.icon-image{
+  height:16px;
+  width:20px;
+  margin-bottom: 5px;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+}
+
+.icon-image-prog{
+  height:16px;
+  width:16px;
+  margin-bottom: 4px;
+  margin-right: 0.5rem;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+}
+
+.colortitle{
+  color: #343a40;
+}
+
+.backto-top>div{
+  background-color: black;
+}
+
+.backto-top>div {
+  z-index: 999;
+  width: 50px;
+  height: 50px;
+  line-height: 49px;
+  border-radius: 50%;
+  background-color: rgb(41, 45, 62);
+  text-align: center;
+  overflow: hidden;
+  z-index: 999 !important;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.backto-top svg {
+  font-size: 14px !important;
+  color: white;
+  width: 27px;
+  height: 27px;
+}
+
+/*ColorCurrentSection*/
+.navbar-nav>li.is-current .nav-link {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.context-body{
+  text-align: justify;
+}
