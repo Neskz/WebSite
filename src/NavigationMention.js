@@ -7,7 +7,7 @@ class NavigationMention extends React.Component {
     render(){
         return (
             <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-                <a class="navbar-brand js-scroll-trigger" href="/#about">
+                <a class="navbar-brand js-scroll-trigger" href="/WebSite/#about">
                     <span class="d-block d-lg-none">Aurélien RABET</span>
                     <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/WebSite/profile.jpg" alt="" /></span>
                 </a>
@@ -26,12 +26,12 @@ class NavigationMention extends React.Component {
                         currentClassName="is-current"
                         offset={-200}
                     >
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#about">À propos</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#education">Formations</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#experience">Experiences</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#awards">Projets</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#skills">Compétences</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/#interests">Intérêts</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#about">À propos</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#education">Formations</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#experience">Experiences</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#awards">Projets</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#skills">Compétences</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/WebSite/#interests">Intérêts</a></li>
                     </Scrollspy>
                 </div>
             </nav>

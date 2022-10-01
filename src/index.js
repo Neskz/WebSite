@@ -10,7 +10,7 @@ const Root = () => {
     <Router>
         <Switch>
           <Route exact path="/WebSite/" component={App} />
-          <Route exact path="/mentions" component={Mentions} />
+          <Route exact path="/WebSite/mentions" component={Mentions} />
         </Switch>
     </Router>
   )
