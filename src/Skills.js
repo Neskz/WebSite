@@ -81,6 +81,10 @@ class Skills extends React.Component {
                             <span class="fa-li"><i class="fas fa-award" style={{color: 'gold'}}></i></span>
                             <a href="https://www.credly.com/badges/dabf862b-9ad8-494b-b025-db826feee019?source=linked_in_profile">Microsoft Azure (AZ-104) : Azure Administrateur</a>
                         </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-award" style={{color: 'gold'}}></i></span>
+                            <a href="https://www.credly.com/badges/461bf7f4-992f-43cf-a44d-a7aa13837251/linked_in_profile">Microsoft Azure (AZ-305) : Azure Architect Solutions</a>
+                        </li>
                     </ul>
                 </div>
             </section>  
