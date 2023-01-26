@@ -11,7 +11,7 @@ class Projects extends React.Component {
                     <div class="subheading mb-3 colortitle">ISIMA, 3ème année (Projet de 120 heures)</div>
                     <p>
                     Réalisation d’un audit de sécurité d’un site web : mise en place d’un périmètre, étude et rapport.<br></br>
-                    <u>Méthodes</u> : Contrôle des versions, Tentative d'intrusion, Étude du code, ...
+                    <u>Méthodes</u> : Contrôle des versions, Tentative d'intrusion, Boîte Noire/Grise/Blanche, ...
                     </p>
                     <div class="subheading mb-3 colortitle">ISIMA, 2ème année (Projet de 60 heures)</div>
                     <p>

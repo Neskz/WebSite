@@ -22,7 +22,6 @@ class Skills extends React.Component {
                             <li title="Python" class="list-inline-item"><i class="fab fa-python"></i></li>
                             <img title="C" class="icon-image-prog" src="/WebSite/c.jpg" alt="C"/>
                             <img title="C++" class="icon-image-prog" src="/WebSite/c++.jpg" alt="C++"/>
-                            <img title="Powershell" class="icon-image" src="/WebSite/powershell.jpg" alt="Powershell"/>
                         </li>
                         <li>
                             <>Bases de données : </>
@@ -35,14 +34,18 @@ class Skills extends React.Component {
                             <img title="Azure" class="icon-image" src="/WebSite/azure.jpg" alt=""/> 
                         </li>
                         <li>
-                            <>Environnement : </> 
+                            <>Environnement (dont scripting) : </> 
                             <li title="Linux" class="list-inline-item"><i class="fab fa-linux"></i></li>
                             <li title="Windows" class="list-inline-item"><i class="fab fa-windows"></i></li>
                         </li>
                         <li>
                             <>Autres : </> 
                             <li title="GitHub" class="list-inline-item"><i class="fab fa-github"></i></li>
+                            <li title="GitLab" class="list-inline-item"><i class="fab fa-gitlab"></i></li>
                             <li title="Docker" class="list-inline-item"><i class="fab fa-docker"></i></li>
+                            <img title="Terraform" class="icon-image-prog" src="/WebSite/Terraform.png" alt="Terraform"/>
+                            <img title="Kubernetes" class="icon-image-prog" src="/WebSite/Kubernetes.png" alt="Kubernetes"/>  
+                            <img title="AzureDevOps" class="icon-image-prog" src="/WebSite/AzDevOps.jpg" alt="AzureDevOps"/>
                             <li title="Jira" class="list-inline-item"><i class="fab fa-jira"></i></li>
                             <img title="CCNA" class="icon-image-prog" src="/WebSite/ccna.jpg" alt="CCNA"/> 
                             <img title="ITIL v4" class="icon-image" src="/WebSite/itil.jpg" alt="ITIL"/> 
